@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Service Experiments</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Buttons-->
+    <string name="say_something">Say Something</string>
+    <string name="kill_slow_service">Kill Slow Service</string>
+    <string name="kill_fast_service">Kill Fast Service</string>
+    <string name="kill_all_services">Kill All Services</string>
+    <string name="suicidal">Suicide</string>
+
+</resources>
